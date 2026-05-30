@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer thin gold visual accent ring -->
+    <path
+        android:strokeColor="#FBBF24"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M 54 18 A 36 36 0 1 1 53.99 18 Z" />
+
+    <!-- Center Book / Pages Emblem (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 32,68 C 32,68 44,63 54,68 C 64,63 76,68 76,68 L 76,46 C 76,46 64,41 54,46 C 44,41 32,46 32,46 Z" />
+    
+    <!-- Separation center line of book (Gold/Yellow) -->
+    <path
+        android:strokeColor="#FBBF24"
+        android:strokeWidth="2"
+        android:pathData="M 54,46 L 54,68" />
+
+    <!-- Sleek Graduation Cap (White + Gold Tassel) -->
+    <!-- Cap Diamond top -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,26 L 74,34 L 54,42 L 34,34 Z" />
+    
+    <!-- Cap Base under the diamond -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M 42,35 L 42,41 C 42,43 46,45 54,45 C 62,45 66,43 66,41 L 66,35 Z" />
+
+    <!-- Cap Tassel (Golden Gold) -->
+    <path
+        android:strokeColor="#FBBF24"
+        android:strokeWidth="1.5"
+        android:fillColor="#FBBF24"
+        android:pathData="M 54,34 L 68,39 L 68,46" />
+        
+    <!-- Tassel Button at center -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M 54 33 A 1.5 1.5 0 1 1 53.99 33 Z" />
+</vector>

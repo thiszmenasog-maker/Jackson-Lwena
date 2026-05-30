@@ -1,0 +1,6 @@
+{
+  "name": "ElimuPDF",
+  "description": "Educational search engine and web portal for NECTA results (Matokeo), Tanzanian jobs, university and school selections, past papers, HESLB, NACTE, TCU, and TAMISEMI resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
